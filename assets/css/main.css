@@ -866,12 +866,12 @@ section,
   z-index: 3;
 }
 
-.scroll-cotainer{
+/* .scroll-cotainer{
   max-height: 1000px;
   overflow-x: hidden;
   overflow-y: auto;
   scrollbar-color: var(--accent-color) var(--background-color);
-}
+} */
 
 @media (max-width: 1200px) {
   .hero .container {
